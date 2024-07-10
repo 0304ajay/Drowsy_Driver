@@ -8,6 +8,8 @@ This project is a real-time drowsiness detection system that uses a pre-trained 
 - Drowsiness detection using a pre-trained Keras model.
 - Alerts the driver with a sound if drowsiness is detected.
 
+  ![Drowsiness Detection Demo](cansado-cansado-de-manejar.gif)
+
 ## Dependencies
 
 - Python 3.x
